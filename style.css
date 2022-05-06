@@ -3,11 +3,12 @@ body{
 }
 
 .container{
-    width:1350px;
-    height:500px;
-    border:5px solid white;
+    width:auto;
+    height:480px;
+    border-top:5px solid rgb(255, 204, 204);
+    border-bottom:5px solid white;
     position: relative;
-    top:200px;
+    top:150px;
     left:0;
     right:0;
     background-color: rgb(230, 238, 255);
@@ -28,7 +29,7 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(255, 80, 80);
     position:absolute;
-    top:25px;
+    top:35px;
     left:45px;
     letter-spacing: -3px;
 
