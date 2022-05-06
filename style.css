@@ -1,5 +1,5 @@
 body{
-    background-color: darkgrey;
+    background: darkgray url(bg1.png) top left no-repeat;
 }
 
 .container{
