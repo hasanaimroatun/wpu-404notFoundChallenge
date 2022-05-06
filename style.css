@@ -1,8 +1,14 @@
-
+body{
+    background-color: darkgrey;
+}
 
 .container{
-    width:400px;
-    height:800px;
-    border:5px solid black;
-    position:relative
+    width:600px;
+    height:600px;
+    border:5px solid white;
+    position: relative;
+    top:15px;
+    left:380px;
+    background-color: rgb(230, 238, 255);
+    
 }
