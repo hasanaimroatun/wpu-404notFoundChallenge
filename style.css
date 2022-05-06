@@ -46,4 +46,14 @@ body{
     color: rgb(255, 102, 102);
 }
 
+.petunjuk {
+    font-size: 22px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(128, 0, 0);
+    position: absolute;
+    top: 340px;
+    left: 178px;
+    letter-spacing: 0;
+}
+
 
