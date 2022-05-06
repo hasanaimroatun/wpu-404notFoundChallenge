@@ -29,5 +29,21 @@ body{
     position:absolute;
     top:25px;
     left:45px;
+    letter-spacing: -3px;
 
 }  
+
+.keterangan {
+    font-size: 51px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 204, 204);
+    position: absolute;
+    top: 290px;
+    left: 145px;
+}
+
+.keterangan span {
+    color: rgb(255, 102, 102);
+}
+
+
