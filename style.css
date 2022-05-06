@@ -15,9 +15,19 @@ body{
 
 .eror{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 80px;
+    font-size: 60px;
     color:maroon;
     position: absolute;
     top:80px;
     left:100px;
 }
+
+.kode {
+    font-size: 300px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 80, 80);
+    position:absolute;
+    top:25px;
+    left:45px;
+
+}  
