@@ -10,5 +10,14 @@ body{
     top:15px;
     left:380px;
     background-color: rgb(230, 238, 255);
-    
+
+}
+
+.eror{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    color:maroon;
+    position: absolute;
+    top:80px;
+    left:100px;
 }
