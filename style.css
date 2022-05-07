@@ -32,8 +32,12 @@ body{
     top:35px;
     left:45px;
     letter-spacing: -3px;
-
 }  
+
+.kode:hover{
+    color: maroon;
+    text-shadow: 20px 20px 10px darksalmon;
+}
 
 .keterangan {
     font-size: 51px;
@@ -91,6 +95,7 @@ a {
 .tombol:hover{
     background-color: rgb(255, 255, 0);
     color: rgb(102, 51, 0);
+    box-shadow: 0 20px 15px -10px darkgoldenrod;
 }
 
 .removelinkdeafult{
@@ -101,7 +106,7 @@ a {
 .satu, .dua, .tiga, .empat, .lima, .enam, .tujuh, .delapan, .sembilan, .sepuluh, .sebelas, .duabelas, .tigabelas, .empatbelas, .limabelas, .enambelas, .tujuhbelas, .delapanbelas, .sembilanbelas, .duapuluh, .duasatu, .duapuluhdua, .duapuluhtiga, .duapuluhempat {
     width:30px;
     height:30px;
-    background-color: rgb(122, 122, 82);
+    background-color: darkgray;
     position:absolute;
 }
 
@@ -225,10 +230,10 @@ a {
     right:200px;
 }
 
-.satu:hover, .dua:hover, .tiga:hover, .empat:hover, .lima:hover, .enam:hover, .tujuh:hover, .delapan:hover, .sembilan:hover, .sepuluh:hover, .sebelas:hover, .duabelas:hover, .tigabelas:hover, .empatbelas:hover, .limabelas:hover, .enambelas:hover, .tujuhbelas:hover, .delapanbelas:hover, .sembilanbelas:hover, .duapuluh:hover {
+.satu:hover, .dua:hover, .tiga:hover, .empat:hover, .lima:hover, .enam:hover, .tujuh:hover, .delapan:hover, .sembilan:hover, .sepuluh:hover, .sebelas:hover, .duabelas:hover, .tigabelas:hover, .empatbelas:hover, .limabelas:hover, .enambelas:hover, .tujuhbelas:hover, .delapanbelas:hover, .sembilanbelas:hover, .duapuluh:hover{
     background-color: rgb(255, 255, 0);
 }
 
 .duasatu:hover, .duapuluhdua:hover, .duapuluhtiga:hover, .duapuluhempat:hover{
-    background-color:rgb(77, 255, 136);
+    background-color: rgb(77, 255, 136);
 }
