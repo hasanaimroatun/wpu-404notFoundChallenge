@@ -3,14 +3,15 @@ body{
 }
 
 .container{
-    width:600px;
-    height:600px;
-    border:5px solid white;
+    width:650px;
+    height:500px;
+    border:3px solid rosybrown;
     position: relative;
     top:15px;
     left:380px;
     background-color: rgb(230, 238, 255);
-
+    border-top-left-radius: 300px;
+    border-bottom-right-radius: 300px;
 }
 
 .eror{
